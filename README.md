@@ -1,6 +1,6 @@
 # Iris-Classification-Web-App
 Iris Flower Classification Web App
 
-<a href="http://192.168.247.205:8501" >
+<a href=""https://kundanyadavgithub-iris-classificatio-ml-web-app-project2-83tjxn.streamlit.app/ >
 App Link On Streamlit
 </a>
